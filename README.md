@@ -1,2 +1,2 @@
 # pertemuanpertama
-ini pembealjaran pertama
+ini pembelajaran pertama
